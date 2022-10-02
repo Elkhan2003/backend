@@ -10,7 +10,7 @@ $(window).scroll(function () {
 	if (sc > 100) {
 		$("#header__scroll").addClass("strong");
 	} else {
-		$("#header__scroldl").removeClass("strong");
+		$("#header__scroldl").removeClass("strwong");
 	}
 });
 $(window).scroll(function () {
