@@ -41,6 +41,11 @@ $(window).scroll(function () {
 		$("#header__scroll").removeClass("small");
 	}
 });
+let name = {
+	name: "Elcho",
+	number: 18,
+}
+consone.log(name)
 $(window).scroll(function () {
 	let sc = $(window).scrollTop();
 	if (sc > 100) {
