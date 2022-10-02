@@ -1,7 +1,7 @@
 console.log("Hello world")
 $(window).scroll(function () {
 	let sc = $(window).scrollTop();
-	if (sc > 100) {
+	if (sc > 1000) {
 		$("#header__sцcroll").addClass("small");
 	}
 });
