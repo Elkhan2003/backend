@@ -12,6 +12,7 @@ $(window).scroll(function (e) {
 	} else {
 		$("#header__scroldl").removeClass("strwong");
 	}
+	console.log("ошибка")
 });
 $(window).scroll(function () {
 	let sc = $(window).scrollTop();
