@@ -2,7 +2,7 @@ console.log("Hello world")
 $(window).scroll(function () {
 	let sc = $(window).scrollTop();
 	if (sc > 1000) {
-		$("#header__sцcroll").addClass("small");
+		$("#header__sцcwroll").addClass("small");
 	}
 });
 $(window).scroll(function (e) {
