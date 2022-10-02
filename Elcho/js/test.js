@@ -10,8 +10,8 @@ $(window).scroll(function () {
 $(window).scroll(function () {
 	let sc = $(window).scrollTop();
 	if (sc > 100) {
-		$("#header__scroll").addClass("small");
+		$("#header__scroll").addClass("strong");
 	} else {
-		$("#header__scroll").removeClass("small");
+		$("#header__scroll").removeClass("strong");
 	}
 });
