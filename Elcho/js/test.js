@@ -14,10 +14,6 @@ $(window).scroll(function (e) {
 	}
 	console.log("ошибка")
 });
-$(window).scroll(function () {
-	let sc = $(window).scrollTop();
-});
-
 $(window).onChange(function () {
 	let sc = $(window).scrollTop();
 	if (sc > 100) {
