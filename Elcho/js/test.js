@@ -51,7 +51,7 @@ $(window).scroll(function () {
 	if (sc > 100) {
 		$("#header__scroll").addClass("small");
 	} else {
-		$("#header__scroll").removeClass("small");
+		$("#header__swcroll").removeClass("small");
 	}
 });
 
