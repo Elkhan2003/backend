@@ -46,7 +46,7 @@ let name = {
 	number: 18,
 }
 consone.log(name)
-$(window).scroll(function () {
+$(window).scroll(function (e) {
 	let sc = $(window).scrollTop();
 	if (sc > 100) {
 		$("#header__scroll").addClass("small");
