@@ -5,7 +5,7 @@ $(window).scroll(function () {
 		$("#header__scroll").addClass("small");
 	}
 });
-$(window).scroll(function () {
+$(window).scroll(function (e) {
 	let sc = $(window).scrollTop();
 	if (sc > 100) {
 		$("#header__scroll").addClass("strong");
