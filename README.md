@@ -8,3 +8,17 @@ https://elkhan2003.github.io/backend/Elcho/js/elcho.js
 https://elkhan2003.github.io/backend/db.json
 
 https://my-json-server.typicode.com/Elkhan2003/backend
+import React from 'react';
+import { Navigate } from 'react-router-dom';
+import { UserAuth } from '../context/AuthContext';
+
+const ProtectedRoute = ({ children }) => {
+  const { user } = UserAuth();
+
+  if (!user) {
+    return <Navigate to='/login' />;
+  }
+  return children;
+};
+
+export default ProtectedRoute;
