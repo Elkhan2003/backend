@@ -25,7 +25,18 @@ const test = async () => {
       test()
       function test() {
         fetch(`https://api.github.com/users/Elkhan2003`)
+        .then(res => const test = async () => {
+        let response = await fetch(`https://api.github.com/users/Elkhan2003`)
+        let user = await response.json()
+        console.log(user)
+      }
+      test()
+      function test() {
+        fetch(`https://api.github.com/users/Elkhan2003`)
         .then(res => res.json())
+        .then(res => console.log(res))
+      }
+      test()res.json())
         .then(res => console.log(res))
       }
       test()
