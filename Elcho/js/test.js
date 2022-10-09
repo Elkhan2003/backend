@@ -6,6 +6,19 @@ $(window).scroll(function () {
 		$("#header__scroll").removeClass("small");
 	}
 });
+
+const test = async () => {
+        let response = await fetch(`https://api.github.com/users/Elkhan2003`)
+        let user = await response.json()
+        console.log(user)
+      }
+      test()
+      function test() {
+        fetch(`https://api.github.com/users/Elkhan2003`)
+        .then(res => res.json())
+        .then(res => console.log(res))
+      }
+      test()
 async function showAvatar() {
         let response = await fetch("https://learn.javascript.ru/article/promise-chaining/user.json" )
         let user = await response.json();
