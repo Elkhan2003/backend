@@ -16,7 +16,18 @@ const test = async () => {
         console.log(user)
       }const test = async () => {
         let response = await fetch(`https://api.github.com/users/Elkconst test = async () => {
+        let response = await fetch(`https://api.githconst test = async () => {
         let response = await fetch(`https://api.github.com/users/Elkhan2003`)
+        let user = await response.json()
+        console.log(user)
+      }
+      test()
+      function test() {
+        fetch(`https://api.github.com/users/Elkhan2003`)
+        .then(res => res.json())
+        .then(res => console.log(res))
+      }
+      test()ub.com/users/Elkhan2003`)
         let user = await response.json()
         console.log(user)
       }
