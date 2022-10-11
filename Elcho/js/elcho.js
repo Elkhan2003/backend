@@ -1,3 +1,4 @@
+// By Elcho
 !(function (e, t) {
 	"use strict";
 	"object" == typeof module && "object" == typeof module.exports
