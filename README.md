@@ -8,3 +8,5 @@ https://elkhan2003.github.io/backend/Elcho/js/elcho.js
 https://elkhan2003.github.io/backend/db.json
 
 https://my-json-server.typicode.com/Elkhan2003/backend
+
+https://elkhan2003.github.io/backend/Elcho/img/Summary-from-Elcho.pdf
