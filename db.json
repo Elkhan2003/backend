@@ -49,7 +49,18 @@
     "url1": "https://elkhan2003.github.io/elcho_map"
   }{
 "maps": [
+  {{
+"maps": [
   {
+    "url1": "https://elkhan2003.github.io/elcho_map"
+  }
+],
+"sites": [
+  {
+    "url1": "https://rextester.com/l/pascal"
+  }
+]
+}
     "url1": "https://elkhan2003.github.io/elcho_map"
   }
 ],
