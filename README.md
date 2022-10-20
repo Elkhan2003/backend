@@ -11,3 +11,4 @@ https://my-json-server.typicode.com/Elkhan2003/backend
 https://elkhan2003.github.io/backend/Elcho/js/animation.js
 
 https://elkhan2003.github.io/backend/Elcho/css/animation.css
+https://elkhan2003.github.io/backend/Elcho/css/animation.min.css
