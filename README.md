@@ -5,7 +5,9 @@ https://elkhan2003.github.io/backend/Elcho/img/vs-code.png
 https://elkhan2003.github.io/backend/Elcho/img/codify-lesson.png
 https://elkhan2003.github.io/backend/Elcho/img/DevX-logo.png
 https://elkhan2003.github.io/backend/Elcho/img/DevX-unnamed.png
+
 https://elkhan2003.github.io/backend/Elcho/img/man.webp
+
 https://elkhan2003.github.io/backend/Elcho/js/elcho.js
 
 https://elkhan2003.github.io/backend/db.json
