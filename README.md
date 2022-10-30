@@ -8,7 +8,7 @@ https://elkhan2003.github.io/backend/Elcho/img/DevX-unnamed.png
 
 https://elkhan2003.github.io/backend/Elcho/img/man.webp
 
-https://elkhan2003.github.io/backend/Elcho/js/elcho.js
+https://elkhan2003.github.io/backend/Elcho/js/jquery-3.6.1.min.js
 
 https://elkhan2003.github.io/backend/db.json
 
